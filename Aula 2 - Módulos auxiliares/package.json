@@ -1,0 +1,11 @@
+{
+  "name": "portal",
+  "version": "1.0.0",
+  "description": "Exemplo de um site de noticias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adriano Santos",
+  "license": "ISC"
+}
