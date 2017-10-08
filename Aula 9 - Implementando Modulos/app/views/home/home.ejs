@@ -1,0 +1,13 @@
+<h1> Página Principal </h1>
+<table>
+    <tr>
+        <td>Título</td><td>Data de Cadastro</td>
+    </tr>
+<%  
+    for (var i =0; i < noticias.length; i++){
+%>
+    <tr>
+        <td><%= noticias[i].titulo %></td><td><%= noticias[i].data_cadastro %></td>
+    </tr> 
+<% }; %>
+</table>
