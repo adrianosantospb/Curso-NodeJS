@@ -9,10 +9,10 @@
   "author": "Adriano Santos",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.1",
     "consign": "^0.1.6",
     "ejs": "^2.5.7",
-    "express": "^4.16.1",
+    "express": "^4.18.2",
     "mysql": "^2.14.1",
     "pg": "^7.3.0",
     "pg-hstore": "^2.3.2",
